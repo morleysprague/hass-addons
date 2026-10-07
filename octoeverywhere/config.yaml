@@ -15,7 +15,7 @@ map:
     read_only: false
 
 schema:
-  COMPANION_MODE: list(bambu|elegoo)
+  COMPANION_MODE: list(bambu|elegoo|elegoo_cc2)
   PRINTER_IP: str
   ACCESS_CODE: "str?"
   SERIAL_NUMBER: "str?"
