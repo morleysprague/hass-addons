@@ -1,14 +1,14 @@
 {
-  "name": "Eran's Custom Home Assistant Add-ons",
-  "url": "https://github.com/ekutner/hass-addons",
-  "maintainer": "Eran Kutner <your.email@example.com>",
+  "name": "Morley's Custom Home Assistant Add-ons",
+  "url": "https://github.com/morleysprague/hass-addons",
+  "maintainer": "Morley Sprague <your.email@example.com>",
   "addons": [
     {
       "slug": "octoeverywhere",
-      "url": "https://github.com/ekutner/hass-addons",
-      "version": "1.0.0",
-      "name": "OctoEverywhere serer for Home Assistant",
-      "description": "OctoEverywhere for Bambu Lab and Elegoo printers as a Home Assistant add-on."
+      "url": "https://github.com/morleysprague/hass-addons",
+      "version": "1.1.0",
+      "name": "Morley's OctoEverywhere",
+      "description": "OctoEverywhere for my Elegoo Centauri Carbon 2 as a Home Assistant add-on."
     }
   ]
 }
