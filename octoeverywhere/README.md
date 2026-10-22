@@ -9,7 +9,7 @@ For some manufacturers it is required to install an external service that will b
 Currently supported printers are from Bambu Lab and Elegoo. 
 
 # Pre-Requisite
-You will need a OctoEverywhere account in order to use their cloud service. If you don't already have one then please use this link: https://octoeverywhere.com/?ref=KKNXKL to register, which will grant me their referral benefits, whatever they might be.
+You will need a OctoEverywhere account in order to use their cloud service. If you don't already have one then please use this link: https://octoeverywhere.com/?ref=5R5OJL to register, which will grant me their referral benefits, whatever they might be.
 
 # Installation
 
