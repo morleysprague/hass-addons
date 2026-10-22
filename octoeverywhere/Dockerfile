@@ -1,7 +1,7 @@
 FROM octoeverywhere/octoeverywhere:latest
 
 LABEL \
-  io.hass.version="1.0.0" \
+  io.hass.version="1.1.1" \
   io.hass.type="addon" \
   io.hass.arch="armhf|aarch64|i386|amd64"
 
