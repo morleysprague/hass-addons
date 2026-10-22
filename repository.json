@@ -6,7 +6,7 @@
     {
       "slug": "octoeverywhere",
       "url": "https://github.com/morleysprague/hass-addons",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "name": "Morley's OctoEverywhere",
       "description": "OctoEverywhere for my Elegoo Centauri Carbon 2 as a Home Assistant add-on."
     }
