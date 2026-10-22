@@ -6,7 +6,7 @@
 This add-on hosts that bridge directly in Home Assistant. I have customized this fork specifically for use with my Elegoo Centauri Carbon 2 (CC2).
 
 # Pre-Requisite
-You will need an OctoEverywhere account in order to use their cloud service. If you don't already have one, please use my referral link: [YOUR_REFERRAL_LINK_HERE] to register.
+You will need an OctoEverywhere account in order to use their cloud service. If you don't already have one, please use my referral link: https://octoeverywhere.com/?ref=5R5OJL to register.
 
 # Installation
 
